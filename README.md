@@ -2,6 +2,7 @@
 
 Udacity Data Analytics Nanodegree December 2017 - May 2018 
 Project 3 - Exploring Gapminder Datasets using Python and Jupyter Notebook
+[Click to preview](http://htmlpreview.github.io/?https://github.com/latinacode/Investigate-a-Dataset/blob/master/investigate-a-dataset-Socio-demographic-variables-resubmit.html)
 
 # Project Overview
 In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
